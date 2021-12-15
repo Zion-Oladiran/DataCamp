@@ -1,2 +1,2 @@
 # DataCamp
-This repository gives an overview of some of the Data science courses I took on Datacamp
+This repository is a compilation of the projects I worked on while taking the Data science career track on Datacamp
